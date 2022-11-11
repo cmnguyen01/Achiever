@@ -15,7 +15,15 @@ https://docs.google.com/spreadsheets/d/19rEi348XXGV8b93TQ35ikhCGfpnFvfyntP3f8SuV
 Deployed Website URL as of milestone 4:
 http://www.achieverapp.net/
 
+## Members 
 
+Brandon Le
+
+Chris Nguyen
+
+Ian McLerran
+
+Isaac Schultz
 
 ## Notes about this project
 Authentication details are encrypted using git-secret
@@ -23,7 +31,7 @@ Authentication details are encrypted using git-secret
 ### Additional notes
 Most code written collaboratively using the "Live Share" plugin for VS Code, thus most commits are from a single user.
 
-## Summary
+## Introduction
 Achiever is a project that we designed for web development class. Our app is aiming to be a way to create tasks that need to be done and track your progress to completion. To reward completing tasks, getting them done on time would give achievements and experience. Tasks can be marked with different levels of difficulty, and would yield different amounts of experience depending on them. They should be able to show you what is going on with your friends, and to see their progress on tasks that they make public. 
 
 ## Task that is to be supported by our App
