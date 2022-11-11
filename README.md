@@ -26,7 +26,7 @@ Most code written collaboratively using the "Live Share" plugin for VS Code, thu
 ## Summary
 Achiever is a project that we designed for web development class. Our app is aiming to be a way to create tasks that need to be done and track your progress to completion. To reward completing tasks, getting them done on time would give achievements and experience. Tasks can be marked with different levels of difficulty, and would yield different amounts of experience depending on them. They should be able to show you what is going on with your friends, and to see their progress on tasks that they make public. 
 
-##Task that is to be supported by our App
+## Task that is to be supported by our App
 
 A user must be able to add, delete and modify tasks
 
